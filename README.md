@@ -1,11 +1,9 @@
-# robot_framework
-
-Robot Framework is a pre-built test automation framework. By comparison... Robot Framework is much easier to learn than Selenium Webdriver (with Java, Python, C#, or PHP) because your scripts are written with English words instead of code.
+# ROBOT FRAMEWORK
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [About the Robot Framework](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -20,14 +18,10 @@ Robot Framework is a pre-built test automation framework. By comparison... Robot
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Robot Framework
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
-
+Robot Framework is a pre-built test automation framework. By comparison... Robot Framework is much easier to learn than Selenium Webdriver (with Java, Python, C#, or PHP) because your scripts are written with English words instead of code.
 
 ### Built With
 
